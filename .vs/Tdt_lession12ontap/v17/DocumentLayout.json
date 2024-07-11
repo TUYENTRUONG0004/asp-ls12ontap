@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\controllers\\tdt_tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\controllers\\tdt_tacgiacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\views\\shared\\_tdtlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\controllers\\tdthomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|c:\\users\\computer\\desktop\\06\\tdt_lession12ontap\\tdt_lession12ontap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B33E3251-5F31-455A-A14C-6D392B482373}|Tdt_lession12ontap\\Tdt_lession12ontap.csproj|solutionrelative:tdt_lession12ontap\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Tdt_lession12ontap\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T03:48:56.32Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Tdt_lession12ontap\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T04:01:29.557Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tdt_TACGIAController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Controllers\\Tdt_TACGIAController.cs",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Controllers\\Tdt_TACGIAController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Controllers\\Tdt_TACGIAController.cs",
+              "RelativeToolTip": "Tdt_lession12ontap\\Controllers\\Tdt_TACGIAController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:31:55.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Tdt_lession12ontap\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-11T04:28:01.698Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TdtLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Views\\Shared\\_TdtLayout.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\Shared\\_TdtLayout.cshtml",
+              "RelativeToolTip": "Tdt_lession12ontap\\Views\\Shared\\_TdtLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T04:13:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TdtHomeController.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Controllers\\TdtHomeController.cs",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Controllers\\TdtHomeController.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Controllers\\TdtHomeController.cs",
+              "RelativeToolTip": "Tdt_lession12ontap\\Controllers\\TdtHomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T04:12:43.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Tdt_lession12ontap\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T03:48:47.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Tdt_lession12ontap\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\COMPUTER\\Desktop\\06\\Tdt_lession12ontap\\Tdt_lession12ontap\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Tdt_lession12ontap\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T03:48:39.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

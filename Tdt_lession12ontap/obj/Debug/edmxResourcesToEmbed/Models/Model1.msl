@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TruongDinhTuyen_2210900134ModelStoreContainer" CdmEntityContainer="TruongDinhTuyen_2210900134Entities">
+    <EntitySetMapping Name="Tdt_TACGIA">
+      <EntityTypeMapping TypeName="TruongDinhTuyen_2210900134Model.Tdt_TACGIA">
+        <MappingFragment StoreEntitySet="Tdt_TACGIA">
+          <ScalarProperty Name="Tdt_MaTG" ColumnName="Tdt_MaTG" />
+          <ScalarProperty Name="Tdt_TenTacGia" ColumnName="Tdt_TenTacGia" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

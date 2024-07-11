@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TruongDinhTuyen_2210900134Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'TruongDinhTuyen_2210900134.dbo.Tdt_SACH' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="Tdt_SACH">
+          <Property Name="Tdt_MaSach" Type="char" MaxLength="10" />
+          <Property Name="Tdt_TenSach" Type="nvarchar" MaxLength="50" />
+          <Property Name="Tdt_SoTrang" Type="int" />
+          <Property Name="Tdt_NamXB" Type="char" MaxLength="10" />
+          <Property Name="Tdt_MaTG" Type="char" MaxLength="5" />
+          <Property Name="Tdt_TrangThai" Type="bit" />
+        </EntityType>-->
+  <EntityType Name="Tdt_TACGIA">
+    <Key>
+      <PropertyRef Name="Tdt_MaTG" />
+    </Key>
+    <Property Name="Tdt_MaTG" Type="char" MaxLength="5" Nullable="false" />
+    <Property Name="Tdt_TenTacGia" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="TruongDinhTuyen_2210900134ModelStoreContainer">
+    <EntitySet Name="Tdt_TACGIA" EntityType="Self.Tdt_TACGIA" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

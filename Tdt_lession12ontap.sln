@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdt_lession12ontap", "Tdt_lession12ontap\Tdt_lession12ontap.csproj", "{B33E3251-5F31-455A-A14C-6D392B482373}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B33E3251-5F31-455A-A14C-6D392B482373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33E3251-5F31-455A-A14C-6D392B482373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33E3251-5F31-455A-A14C-6D392B482373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33E3251-5F31-455A-A14C-6D392B482373}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12EA0569-886B-49C6-943D-5699A4F010E2}
+	EndGlobalSection
+EndGlobal
